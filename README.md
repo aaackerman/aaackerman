@@ -1,12 +1,20 @@
 ### Hey, I'm Alex 👋
 
-Engineering manager and product-minded builder. Things I'm into lately:
+Engineering leader, systems-builder, and product-minded developer.
 
-🤖✨ AI-assisted development  
-🧠 Clear systems for messy rules  
-✈️ Travel tools  
-💸 Personal finance  
-🏋️ Weight lifting  
-☕ Coffee  
-🇳🇴 Norwegian Language Learning + Norway  
-🔎 Understanding how things work  
+Lately I’ve been especially interested in:
+
+* designing calmer software for complex real-world systems
+* reducing cognitive overhead in bureaucracy and long-term planning
+* AI-assisted development workflows
+* thoughtful UX and operational clarity
+* building tools that help people feel more confident and less overwhelmed
+
+Outside of tech:
+
+☕ coffee  
+🏋️ strength training  
+🇳🇴 learning Norwegian  
+💸 personal finance  
+✈️ spending time between the US and Norway  
+🔎 understanding how complicated systems actually work  
